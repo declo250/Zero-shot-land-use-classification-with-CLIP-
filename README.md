@@ -90,4 +90,3 @@ University of Łódź, Poland
 GitHub:
 https://github.com/declo250
 
-## Project Structure
